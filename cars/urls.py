@@ -3,5 +3,8 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('car',views.cars, name='cars'),
+    path('',views.cars, name='cars'),
+    path('search',views.search, name='search'),
+    path('<int:id>',views.car_detail, name='car_detail'),
+
 ]
