@@ -1,8 +1,10 @@
 from django.shortcuts import render,get_object_or_404
 from .models import Car
 from django.core.paginator import EmptyPage, PageNotAnInteger, Paginator
+from django.contrib.auth.decorators import login_required
 
 # Create your views here.
+
 
 def cars(request):
     cars = Car.objects.order_by('-created_date')
