@@ -1,0 +1,462 @@
+[
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Founder",
+        "photo": "photos/2022/11/29/avatar-11_jjhj9xm.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-29T05:22:18.899Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyne",
+        "designation": "Creative Director",
+        "photo": "photos/2022/11/29/avatar-9.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-29T05:23:26.218Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Branden",
+        "last_name": "Miller",
+        "designation": "Manager",
+        "photo": "photos/2022/11/29/avatar-1.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-29T05:24:56.575Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "John",
+        "last_name": "Deo",
+        "designation": "CEO",
+        "photo": "photos/2022/11/29/avatar-3.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "google_plus_link": "https://www.google.com/",
+        "created_date": "2022-11-29T05:25:33.809Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari  488 GTB",
+        "state": "TX",
+        "city": "Austin",
+        "color": "white",
+        "model": "2017 Ferrari 488 GTB",
+        "year": 2017,
+        "condition": "used",
+        "price": 40000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. It was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8\" title=\"Ferrari F8\">Ferrari F8</a>.</p>",
+        "car_photo_1": "photos/2022/11/30/1902536891_JpZEIfk.jpg",
+        "car_photo_2": "photos/2022/11/30/1902536917_spgoeM3.jpg",
+        "car_photo_3": "photos/2022/11/30/1902537043_zl01S6T.jpg",
+        "car_photo_4": "photos/2022/11/30/1902537077_XlDSvrL.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,Power Steering,Auto Start/Stop,Wind Deflector",
+        "body_style": "sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Auto",
+        "interior": "Grey",
+        "miles": 5,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WD425JI4897",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-30T11:09:23Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "TX",
+        "city": "Dalias",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2000,
+        "condition": "used",
+        "price": 12842,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a>&nbsp;marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>",
+        "car_photo_1": "photos/2022/11/30/1901478607_XTfYlPT.jpg",
+        "car_photo_2": "photos/2022/11/30/1901478618_thMKOB6.jpg",
+        "car_photo_3": "photos/2022/11/30/1901478687_7gSCMwO.jpg",
+        "car_photo_4": "photos/2022/11/30/1901478672_XTKnloF.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Seat Heating,Alarm System,ParkAssist,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Auto",
+        "interior": "Grey",
+        "miles": 125477,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "WD425JI4891",
+        "milage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-11-30T11:22:11Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "CO",
+        "city": "abc",
+        "color": "Black",
+        "model": "F250",
+        "year": 2014,
+        "condition": "used",
+        "price": 12456,
+        "description": "<p>xyz</p>",
+        "car_photo_1": "photos/2022/11/30/1894300894.jpg",
+        "car_photo_2": "photos/2022/11/30/1894300905.jpg",
+        "car_photo_3": "photos/2022/11/30/1894300920.jpg",
+        "car_photo_4": "photos/2022/11/30/1900155012.jpg",
+        "features": "Cruise Control,Audio Interface,Alarm System,Reversing Camera,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Auto",
+        "interior": "white",
+        "miles": 142568,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "WD425JI891",
+        "milage": 8,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-11-30T11:24:08Z"
+    }
+},
+{
+    "model": "contacts.contacts",
+    "pk": 3,
+    "fields": {
+        "first_name": "mahesh",
+        "last_name": "kadam",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty",
+        "city": "Dalias",
+        "state": "mh",
+        "email": "mk427bhaika@gmail.com",
+        "phone": "",
+        "messages": "",
+        "user_id": 5,
+        "create_date": "2022-12-05T16:37:46.992Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$ltkdX77sjmwM$FG3OnQxDbBX0xqOk7Jml0bfHGGtCwAYEt1y9dWypOKQ=",
+        "last_login": "2022-12-05T15:50:45.621Z",
+        "is_superuser": false,
+        "username": "mahesh",
+        "first_name": "mahesh",
+        "last_name": "kadam",
+        "email": "mk427bhaika@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-02T08:15:35.250Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$pZV9y5sIQi7x$Au8CVMV6mFx6HoFt4ocIi+pA8fkrY0k+xMf12QR7Ihc=",
+        "last_login": "2022-12-05T10:46:05.221Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "mahesh.kadam0121@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-12-02T08:27:28Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!x0sHMytSA4mp7AIuJoNSXgfBv01YzUxvdPnlxhJe",
+        "last_login": "2022-12-02T13:10:43.912Z",
+        "is_superuser": false,
+        "username": "mahesh0",
+        "first_name": "Mahesh",
+        "last_name": "Kadam",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-02T13:08:29.747Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$WPGdwqDFF0Co$Pi+tfpcgbiy5INkA3T0U7I/aYJN1F2AuN+5F63huBxg=",
+        "last_login": "2022-12-05T10:29:36.732Z",
+        "is_superuser": false,
+        "username": "mahesh123",
+        "first_name": "mahesh",
+        "last_name": "k",
+        "email": "mk427bhaika@mail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-05T10:29:36.402Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "2hnyfn3cqra9a53z2mupglejbyjrtne7",
+    "fields": {
+        "session_data": "NjkwMTg3Y2ZlYmQ3OTQ0Yjk3ODhhMTAwNzM0OTcyOWM4MGFkY2RlMzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzOWViYWQ0NDRjYTJlZDZlNGM2ODQwNTMyNzE0NDZjMTYzMTkyMGU1In0=",
+        "expire_date": "2022-12-13T04:23:25.654Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "epc38w31wrp5deiiz8x1e2gsd2qtznor",
+    "fields": {
+        "session_data": "OGUwMGMxMTljZDg5MzJmMDkwZjRkZWVmNjgzODExZjM5ZWQyNThjYTp7Il9hdXRoX3VzZXJfaWQiOiI3IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI2MjAzNjcyODAzNmY2NDRmMzNkYTYyYzFkNDQzY2IwNjJiODMxMzQyIn0=",
+        "expire_date": "2022-12-16T13:10:43.914Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ntog2ueuhncloe70pbnyo0dlgz85qtoe",
+    "fields": {
+        "session_data": "NjkwMTg3Y2ZlYmQ3OTQ0Yjk3ODhhMTAwNzM0OTcyOWM4MGFkY2RlMzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzOWViYWQ0NDRjYTJlZDZlNGM2ODQwNTMyNzE0NDZjMTYzMTkyMGU1In0=",
+        "expire_date": "2022-12-12T12:29:36.868Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "u8w7ogu4zeamph2xxcwnnpgs24vcv943",
+    "fields": {
+        "session_data": "ZmI3YjYwZDg3NGM3ZDk2ZmY0YmM5NmJlZGU1YzkzM2Q5OGVmMjQ5NDp7Il9hdXRoX3VzZXJfaWQiOiI2IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIxNjA1MjE2YjZlMWQ0MDY2MTI0Y2YwNmIyNzE5YzY1N2UwYTZmMGZlIn0=",
+        "expire_date": "2022-12-19T04:43:16.366Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "y3yxpjgatkrdqbfm7u3ouq0erss95u1i",
+    "fields": {
+        "session_data": "ZTI0ZTk5Y2VhYzEzYWE1YTFhNjRjOTUwNjZjZTMzMjgxZmVhZDBkYTp7Il9hdXRoX3VzZXJfaWQiOiI1IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIyNDRmMjQ5ZTlmNWRlZDBkZjRmYjAwOTUzMDY1N2U1ZGY5YzVlY2I0In0=",
+        "expire_date": "2022-12-19T15:50:45.633Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Mahesh Kadam",
+        "client_id": "883797433067250",
+        "secret": "bda400aafe296fbb13ad0ab58c059043",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "617832169117-7sl71ng7bp14he0t1kflju7t50ua1tqe.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "mahesh0"
+        ],
+        "provider": "facebook",
+        "uid": "5694923663920990",
+        "last_login": "2022-12-02T13:10:43.900Z",
+        "date_joined": "2022-12-02T13:08:29.764Z",
+        "extra_data": "{\"id\": \"5694923663920990\", \"name\": \"Mahesh Kadam\", \"first_name\": \"Mahesh\", \"last_name\": \"Kadam\"}"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-12-02T13:00:13.174Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Mahesh Kadam",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-12-02T13:02:36.436Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-12-04T13:39:40.464Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-12-05T10:00:53.409Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "admin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-12-05T10:14:22.501Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "contacts",
+            "contacts"
+        ],
+        "object_id": "2",
+        "object_repr": "mk427bhaika@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-12-05T10:14:22.505Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "contacts",
+            "contacts"
+        ],
+        "object_id": "1",
+        "object_repr": "mk427bhaika@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-12-05T10:21:45.468Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "6",
+        "object_repr": "admin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+    }
+}
+]
